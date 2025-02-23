@@ -7,4 +7,4 @@ optimize resource allocation, reduce project risks, and enhance overall project 
 **Files** <br>
 The RW_final_paper.pdf file includes the paper on our research, containing motivation, background, research questions, methodology, experimental results and discussion. All the code 
 can be found in several Jupyter Notebooks. Models_orig_data.ipynb includes the trained models on the original dataset, while Logistic_reg_final.ipynb, SVM_final.ipynb, and XGBoost_final.ipynb 
-cover the training on the same models, but on artificially augmented data. Finally, the notebook results_visualizations.ipynb illustrates some visualizations of the experimental findings.
+cover the training on the same models, but on artificially augmented data. Finally, the notebook results_visualizations.ipynb illustrates some visualizations of the experimental findings. This project uses a publicly available dataset; please see the report for sources.
